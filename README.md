@@ -1,9 +1,9 @@
 # This is a project is a mock ecommerce site created with react as part or the frontend career path.
   Tools used in this project: 
   
-  ** ReactHooks
-  ** ReactRouter
-  ** ReactContext
+  * ReactHooks
+  * ReactRouter
+  * ReactContext
 
 # Getting Started with Create React App
 
