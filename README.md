@@ -1,4 +1,5 @@
-# This is a project is a mock ecommerce site created with react as part or the frontend career path in scrimba.com.
+# This project is a mock ecommerce site created with react as part or the frontend career path in scrimba.com.
+  This website allows you to add, remove and favorite pictures for sale. 
   Tools used in this project: 
   
   * ReactHooks
