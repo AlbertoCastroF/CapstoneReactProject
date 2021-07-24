@@ -1,4 +1,4 @@
-# This is a project is a mock ecommerce site created with react as part or the frontend career path.
+# This is a project is a mock ecommerce site created with react as part or the frontend career path in scrimba.com.
   Tools used in this project: 
   
   * ReactHooks
